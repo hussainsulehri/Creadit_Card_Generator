@@ -6,8 +6,7 @@ A simple and elegant web application built with vanilla JavaScript that generate
 - **Random Data**: Generates credit card numbers, expiry dates, and CVVs.
 - **Modern UI**: A clean and responsive design for easy interaction.
 - **Fast & Lightweight**: Built with standard web technologies (HTML/CSS/JS).
-
-![Preview](./snips/snip.png)
+  
 
 ## Quick Start
 1. Clone the repository:
